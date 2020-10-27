@@ -1,0 +1,5 @@
+---
+applications:
+ - name: flaskAPiService
+   random-route: true
+   memory: 64M
